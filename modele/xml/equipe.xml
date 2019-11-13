@@ -1,0 +1,14 @@
+<relation>
+	<table>
+		<tuple>
+			<Nom>Mystère</Nom>
+			<Prenom>Café</Prenom>
+			<Role>Booster</Role>
+			<Specialites>Réveiller</Specialites>
+			<Salaire>Petit : 1$50, Moyen : 1$75, Grand : 2$</Salaire>
+			<Leitmotiv>Garde à fou !</Leitmotiv>
+			<DateEmbauche>16ème siècle (ish)</DateEmbauche>
+			<Signe-distinctif>Amer</Signe-distinctif>
+		</tuple>
+	</table>
+</relation>
